@@ -1,5 +1,7 @@
 # welcome to my APP
 
+to have more information about how to update your git software please refer to my youtube channel
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
