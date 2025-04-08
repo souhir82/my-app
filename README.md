@@ -2,6 +2,10 @@
 
 to have more information about how to update your git software please refer to my youtube channel
 
+(https://www.youtube.com/watch?v=j6evPwMhr4s&pp=0gcJCX4JAYcqIYzv)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
